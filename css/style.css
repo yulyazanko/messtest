@@ -1,0 +1,93 @@
+body{
+	padding-top: 70px;
+	font-family: 'Lucida Sans',Arial, sans-serif;
+	color: #365899;
+	
+}
+
+div.navbar-header button.navbar-toggle:hover{
+	background: #273B65;
+}
+div.navbar-header button.navbar-toggle[aria-expanded="true"]{
+	background: #273B65;
+}
+div.navbar-header button.navbar-toggle[aria-expanded="false"]{
+	background: #3B5998;
+}
+div.navbar-header button{
+	border: #273B65;
+}
+a.btn-facebook{
+	margin: 30px;
+	height: 40px;
+	font-size: 16px;
+
+}
+
+hr{
+	margin:5px 0;
+}
+
+div.auth{
+	text-align: center;
+}
+.f_link{
+	width: 100%;
+	text-align: center;
+}
+.userimg{
+	width: 45px;
+	height: 45px;
+	text-align: center;
+}
+.username{
+	color: #1F3359;
+}
+p.userInfo{
+	text-align: left;
+}
+h3
+{
+	text-align: center;
+}
+input[type=submit]{
+	background: #4E661A;
+}
+input[type=reset]{
+	background: #A6594B;
+}
+.navbar-default{
+	background: #3B5998;
+}
+#top_menu li>a{
+	color: #fff;
+}
+ul{
+	list-style: none;
+}
+.navbar-nav>li:hover{
+	background: #7485A9;
+}
+p.datemess, p.count{
+	font-size: 12px;
+	color: #909090;
+	text-align: right;
+}
+p.addcom1, p.addcom2{
+	text-align: right;
+}
+span.addcom1, span.addcom2{
+	color: #4E661A;
+	cursor: pointer;
+	text-align: right;
+	margin-bottom: 5px;
+	display: inline-block;
+}
+p.datemess{
+	margin-bottom: 5px;
+}
+.block_com1, .block_com2{
+	display: none;
+}
+
+

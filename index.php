@@ -45,8 +45,6 @@
 			 		include_once('pages/messages.php');
 			}
 			else{
-					
-				//echo '<script>window.location.replace("index.php?id=1")</script>';
 				    include_once('pages/auth.php');
 				}
 				
